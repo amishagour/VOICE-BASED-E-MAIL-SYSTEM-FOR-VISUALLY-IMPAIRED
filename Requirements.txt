@@ -1,0 +1,15 @@
+IMPORT
+
+#speech_recognition
+#smtplib
+#BeautifulSoup 
+#gTTS
+#time
+#pyttsx3
+#imaplib
+#email
+#decode_header
+#webbrowser
+#OS 
+#System
+
