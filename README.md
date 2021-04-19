@@ -8,5 +8,5 @@ i.e., email is the most important part in day-to-day life. But some of the peopl
 
 ### Technology use
 
->Python 3.8
+>Python 3.8,
 >python modules and libraries
